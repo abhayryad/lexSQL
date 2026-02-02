@@ -1,0 +1,17 @@
+# Core LLM + RAG
+langchain>=0.1.0
+huggingface-hub>=0.20.0
+
+# Embeddings
+sentence-transformers>=2.2.2
+
+# Vector Store (CPU)
+faiss-cpu>=1.7.4
+
+# SQL safety & parsing
+sqlparse>=0.4.4
+
+# UI
+gradio>=4.0.0
+
+# SQLite is built-in with Python (no install needed)
